@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xibb6202dx4nm24r?svg=true)](https://ci.appveyor.com/project/Sashkasam/classes-and-inheritance-dz)
 # Домашнее задание к лекции «Классы, наследование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
